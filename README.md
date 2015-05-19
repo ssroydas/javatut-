@@ -1,2 +1,2 @@
 # javatut-
-java codes from tutorials. My first repo 
+Codes which are used for tutorial purposes are displayed here. This is my forst repo. 
